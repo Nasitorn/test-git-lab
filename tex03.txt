@@ -1,1 +1,2 @@
 test add new for conflict rebase item branch
+edit for test_rebase conflict
