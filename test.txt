@@ -1,7 +1,4 @@
 test add text test
 
-<<<<<<< HEAD
 edit for conflict line03
-=======
 test edit for mer conflict
->>>>>>> main
