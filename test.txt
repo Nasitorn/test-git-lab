@@ -3,3 +3,5 @@ test add text test
 test edit for mer conflict
 
 add comment for merge
+edit for conflict line03
+test edit for mer conflict
